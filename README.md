@@ -72,7 +72,7 @@ npm start
 
 ## Team Members
 
-Abhiram Haaseth\
+Haaseth Abhiram\
 GitHub: https://github.com/Haaseth-Abhiram
 
 Nagasasank Palepu\
