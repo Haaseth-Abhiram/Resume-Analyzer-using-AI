@@ -118,7 +118,7 @@ npm start
 
 ## Author
 
-Abhiram Haaseth
+Haaseth Abhiram
 
 GitHub:\
 https://github.com/Haaseth-Abhiram
