@@ -40,6 +40,10 @@ Version Control: - Git - GitHub
 git clone
 https://github.com/Haaseth-Abhiram/Resume-Analyzer-using-AI.git
 
+
+To Download modules 
+https://drive.google.com/file/d/1_Mtd01268DtqC-iQE1MjyRRctHIr40SY/view?usp=sharing
+
 ### Backend Setup (Anaconda Prompt)
 
 cd backend\
